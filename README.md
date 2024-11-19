@@ -1,5 +1,5 @@
-##User Story: Tela de Login de Usuário
-##Título: Tela de Login de Usuário
+## User Story: Tela de Login de Usuário
+## Título: Tela de Login de Usuário
 
 Como um usuário registrado, Eu quero uma tela de login simples e segura, Para que eu possa acessar minha conta e utilizar as funcionalidades do sistema.
 
@@ -26,7 +26,7 @@ Deve autenticar o usuário contra o banco de dados.
 
 Deve exibir uma mensagem de erro se a autenticação falhar.
 
-##Mensagens de Erro:
+## Mensagens de Erro:
 
 Deve exibir uma mensagem de erro se o nome de usuário ou senha estiver incorreto.
 
